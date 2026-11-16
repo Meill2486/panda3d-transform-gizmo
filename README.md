@@ -21,7 +21,7 @@
 ## 运行演示
 
 ```bash
-git clone https://github.com/skir95105-zh/panda3d-transform-gizmo.git
+git clone https://github.com/Meill2486/panda3d-transform-gizmo.git
 cd panda3d-transform-gizmo
 python -m venv .venv
 ```

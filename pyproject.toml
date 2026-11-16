@@ -17,6 +17,10 @@ classifiers = [
     "Topic :: Multimedia :: Graphics :: 3D Modeling",
 ]
 
+[project.urls]
+Repository = "https://github.com/Meill2486/panda3d-transform-gizmo"
+Issues = "https://github.com/Meill2486/panda3d-transform-gizmo/issues"
+
 [project.optional-dependencies]
 dev = ["ruff", "build", "pyright", "types-panda3d>=0.4.1"]
 
